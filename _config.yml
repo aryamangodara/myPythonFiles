@@ -1,0 +1,15 @@
+title: My python Files
+author: Aryaman Godara
+email: godara.aryaman@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  these are my very beginner level programs and to be precise these are my first programs.. :) 
+    # this is also a meta for search engines
+
+theme: minima
+
+
+# social links
+twitter_username: aryamangodara # DO NOT include the @ character, or else the build will fail!
+github_username:  aryamangodara # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
