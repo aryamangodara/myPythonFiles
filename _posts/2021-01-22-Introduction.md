@@ -3,6 +3,7 @@ title: "Introduction"
 date: 2021-01-20
 ---
 
+👆Clik on the Introduction for more..
 My first blog to check the things if they are in place 
 and I am thankful that my website is built 😁
 
