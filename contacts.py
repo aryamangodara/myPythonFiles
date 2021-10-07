@@ -1,23 +1,12 @@
-# 
-#	  these files are created by
-#		Aryaman Godara		
-#
-
-#
-#	Any changes for better is accepted, cause these are made in the initial phase of my coding 
-
-
-#   This is a good projevt which will help you to save and manage your contacts..
-
 from os import system as ntp
 import os.path
-print("\nWelcome to Godara Contacts Directories!!!")
+print("\nWelcome to Godara Contacts!!!")
 def quit():
     print("Bye! Thanks for using our software")
 
 def view():
     f=open("contacts.csv" , "r")
-    max=10
+    max=20
     lines=[]
     k=" "
     for l in f:
@@ -81,5 +70,5 @@ while 0<n<5:
         break
 
     else:
-        print("Atleast... choose from given options:)")
+        print("Atlesat choose from given options:)")
         n=1.2    
